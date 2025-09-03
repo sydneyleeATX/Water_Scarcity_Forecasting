@@ -1,6 +1,6 @@
 # Water Scarcity Forecasting: Lake Travis, Austin TX
 
-## 📌 Project Objective
+## Project Objective
 This project investigates how machine learning can be applied to forecast water scarcity in the context of Lake Travis, Austin TX.  
 With climate change intensifying water availability challenges, the goal was to build a predictive model of water levels that leverages environmental, hydrological, and socio-economic features. The project aims to provide insights that may inform policy and water resource management.
 
