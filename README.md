@@ -46,13 +46,12 @@ With climate change intensifying water availability challenges, the goal was to 
 - Train/Test split: 80/20 chronological split.  
 - Hyperparameter tuning via `GridSearchCV`:
   
-  ```python
 param_grid = {
     'n_estimators': [100, 200],
     'max_depth': [3, 4],
     'learning_rate': [0.05, 0.1]
 }
- ```
+
 
 ## 6. Forecasting Strategy
 
