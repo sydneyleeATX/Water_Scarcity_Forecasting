@@ -52,6 +52,7 @@ param_grid = {
     'max_depth': [3, 4],
     'learning_rate': [0.05, 0.1]
 }
+ ```
 
 ## 6. Forecasting Strategy
 
